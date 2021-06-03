@@ -1,0 +1,5 @@
+.Net Framework
+	BCL - Base class library
+	CLR - Common Language Runtime - engine / environment
+	Compilers - CTS + CLS
+	languages
